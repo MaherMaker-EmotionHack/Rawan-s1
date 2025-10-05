@@ -1,0 +1,9 @@
+[Units]
+orcs 2 3
+elves 0 1
+[Moves]
+orcs S
+elves N
+[Moves]
+orcs W
+elves E
