@@ -1,0 +1,9 @@
+[Explorers]
+alice 1 3
+bob 4 2
+[Moves]
+alice E
+bob W
+[Moves]
+alice N
+bob S

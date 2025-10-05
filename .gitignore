@@ -1,0 +1,21 @@
+# Compiled binaries
+*.out
+*.exe
+reference
+reference_alt
+program
+program_alt
+
+# Object files
+*.o
+*.obj
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+.DS_Store
